@@ -1,0 +1,11 @@
+D:\GameDev\CSGames\Pacman Moo ICT\PcMan\PcMan\bin\Debug\PcMan.exe.config
+D:\GameDev\CSGames\Pacman Moo ICT\PcMan\PcMan\bin\Debug\PcMan.exe
+D:\GameDev\CSGames\Pacman Moo ICT\PcMan\PcMan\bin\Debug\PcMan.pdb
+D:\GameDev\CSGames\Pacman Moo ICT\PcMan\PcMan\obj\Debug\PcMan.csproj.AssemblyReference.cache
+D:\GameDev\CSGames\Pacman Moo ICT\PcMan\PcMan\obj\Debug\PcMan.csproj.SuggestedBindingRedirects.cache
+D:\GameDev\CSGames\Pacman Moo ICT\PcMan\PcMan\obj\Debug\PcMan.Form1.resources
+D:\GameDev\CSGames\Pacman Moo ICT\PcMan\PcMan\obj\Debug\PcMan.Properties.Resources.resources
+D:\GameDev\CSGames\Pacman Moo ICT\PcMan\PcMan\obj\Debug\PcMan.csproj.GenerateResource.cache
+D:\GameDev\CSGames\Pacman Moo ICT\PcMan\PcMan\obj\Debug\PcMan.csproj.CoreCompileInputs.cache
+D:\GameDev\CSGames\Pacman Moo ICT\PcMan\PcMan\obj\Debug\PcMan.exe
+D:\GameDev\CSGames\Pacman Moo ICT\PcMan\PcMan\obj\Debug\PcMan.pdb
